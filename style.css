@@ -1,0 +1,32 @@
+.heading{
+    font-size: 26px;
+    margin-top: 0;
+    width:100%;
+    box-shadow: 5px 5px 5px grey;
+    
+    
+}
+.note{
+    font-size:20px;
+    color:black
+}
+.copy_right_footer{
+    position: fixed;
+    color:black;
+    width:100%;
+    bottom:0;
+    line-height: 3;
+    background-color: khaki;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    background-color: white;
+}
+body{
+    background-size: cover;
+    font-family: 'Caveat', cursive;
+}
